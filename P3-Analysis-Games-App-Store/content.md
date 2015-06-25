@@ -1,6 +1,6 @@
 ---
-title: "Introduction to Xcode and Debugging"
-slug: xcode-debugging-screencast
+title: "Analysis of Games in the App Store"
+slug: analysis-games-app-store
 ---
 
 This lecture will take a look at some popular games and analyze the design choices they made.

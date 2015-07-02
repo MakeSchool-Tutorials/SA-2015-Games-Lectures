@@ -71,7 +71,7 @@ The intuitive play buttons do what they would seem like. You can also stop/start
 
 In order to make animations more lifelike (or cartoon-like), animators often add exaggerated squash-and-stretch to figures who fall or move quickly. This often entails elongating assets along an axis and compressing them along another. See the famous bouncing ball:
 
-[](./bouncing_ball.gif)
+![](./bouncing_ball.gif)
 
 If you're creating a segmented joint, you can parent objects by adding them as children. As you'll recall, a child shares transforms with its parent. You can emulate what's known as Forward Kinematics, to create structures like arms (adjusting the rotation of the upper arm affects anything else down the chain -- the lower arm, then the wrist, then the hand).
 

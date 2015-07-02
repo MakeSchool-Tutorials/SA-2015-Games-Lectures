@@ -9,6 +9,10 @@ This lecture will break down how to create animations using SpriteBuilder.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S6o1-oVAqsw" frameborder="0" allowfullscreen></iframe>
 
+#Demo
+
+You can find the demo project on [GitHub](https://github.com/MakeSchool/SpriteBuilder-Animation-Demo).
+
 #What Can You Animate?
 
 Any CCNode can be animated in the SpriteBuilder timeline by setting keyframes for Visibility, Position, Scale, Rotation, and Skew. CCSprites can additionally be animated by setting keyframes for Sprite Frame, Opacity, and Color.
